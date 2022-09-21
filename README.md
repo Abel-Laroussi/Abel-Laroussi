@@ -16,6 +16,7 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
 
 | Bots Discords | État d'avancement |
 | ------------: | :---------------: |
+| Skyjo Counter | 🚧
 | Happiness_Bot | 🚧                 |
 | Puissance_4   | :x:                 |
 | Tic_Tac_Toe   | :x:                 |
