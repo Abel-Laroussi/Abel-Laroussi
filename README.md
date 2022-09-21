@@ -3,7 +3,8 @@
 <br><br>
 Ici vous trouverez tous types de Projets Informatique dont principalement :
 * 🤖 Des scripts de bots pour l'application web [Discord](https://www.discord.com) 🤖
-* [ . . . ]
+* 🖥️ Des sites internet avec des scripts à usage personnel 🖥️
+* . . .
 * \(*Ce profil étant générique, je compléterai au fur et à mesure des idées de projets que je développerai)*
 
 ---
