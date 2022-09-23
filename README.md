@@ -15,13 +15,14 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
 
 ### État d'avancement de mes projets :
 
-| Bots Discords | État d'avancement |
-| ------------: | :---------------: |
-| BlackJack     | :x:
-| Skyjo Counter | 🚧
-| Happiness_Bot | 🚧                 |
-| Puissance_4   | :x:                 |
-| Tic_Tac_Toe   | :x:                 |
+|     Noms      |    Bots Discords   |  Sites internets  |  État d'avancement  |
+| ------------: | :----------------: | :---------------: | :-----------------: |
+| BlackJack     | ❓                  | ❓                | :x:
+| Skyjo Counter | 🚫                 | ✅               | 🚧
+| Happiness_Bot | ✅                 | :x:              | 🚧
+| Puissance_4   | ✅                | ❓                | :x:
+| Tic_Tac_Toe   | ✅                | ❓                | :x:
+| Pendu         | ✅                | ❓                | :x:
 
 ---
 
