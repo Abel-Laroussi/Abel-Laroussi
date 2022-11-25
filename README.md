@@ -17,7 +17,7 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
 
 |     Noms      |    Bots Discords   |  Sites internets  | 
 | ------------: | :----------------: | :---------------: |
-| project_test | :x: | :white_check_mark:
+| dummy_exemple | :x: | :white_check_mark:
 
 
 ---
