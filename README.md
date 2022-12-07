@@ -25,4 +25,4 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
 ### 📫 Me contacter
 
 - **E-Mail** : <a href="mailto:laroussi.abel@hotmail.fr" target="_blank">laroussi.abel@hotmail.fr
-- **Linkedin** : 🚧 <a href="https://www.linkedin.com/in/abelaroussi/?locale=fr_FR" target="_blank">En construction</a> 🚧
+- **Linkedin** : [Abel LAROUSSI](https://www.linkedin.com/in/abel-laroussi-844ba5259/)
