@@ -13,12 +13,9 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
   
 ---
 
-### Mes projets complétés :
+### Mes projets complétés / en cours :
 
-|     Noms      |    Bots Discords   |  Sites internets  | 
-| ------------: | :----------------: | :---------------: |
-| dummy_exemple | :x: | :white_check_mark:
-
+- [Projets en Pascal](https://github.com/Abel-Laroussi/Pascal_Projects) **(WIP 🚧)**
 
 ---
 
