@@ -10,12 +10,6 @@ Ici vous trouverez tous types de Projets Informatique dont principalement :
 ---
 
 <div align=center>La majorité de mes projets étant privés, ce compte me permettra d'enfin contribuer publiquement au développement indormatique</div>
-  
----
-
-### Mes projets complétés / en cours :
-
-- [x] [Projets en Pascal](https://github.com/Abel-Laroussi/Pascal_Projects)
 
 ---
 
