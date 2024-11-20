@@ -6,7 +6,7 @@
 
 ---
 
-<div align=center>La majorité de mes projets étant privés, ce compte me permettra d'enfin contribuer publiquement au développement indormatique</div>
+<div align=center>La majorité de mes projets étant privés, ce compte me permettra d'enfin contribuer publiquement au développement informatique</div>
 
 ---
 
